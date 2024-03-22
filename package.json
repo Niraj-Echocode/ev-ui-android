@@ -1,5 +1,5 @@
 {
-  "name": "tablet-ui-android",
+  "name": "myApp",
   "version": "1.0.0",
   "main": "expo-router/entry",
   "scripts": {
