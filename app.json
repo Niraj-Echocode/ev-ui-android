@@ -6,9 +6,9 @@
     "bundler": "metro"
   },
   "expo": {
-    "name": "tablet-ui-android",
-    "slug": "tablet-ui-android",
-    "scheme": "tablet-ui-android",
+    "name": "myApp",
+    "slug": "myApp",
+    "scheme": "myApp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
